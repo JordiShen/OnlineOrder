@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+@import './styles/Top.css';
+@import './styles/Bottom.css';
+@import './styles/Home.css';
+@import './styles/Login.css';
+@import './styles/AccountInfo.css';
+@import './styles/App.css';
+@import './styles/Tracking.css';
+@import './styles/Ordering.css';
+
+
+
+.ant-row-rtl #components-layout-demo-top .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
